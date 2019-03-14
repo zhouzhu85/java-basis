@@ -1,4 +1,4 @@
-package com.github.zhouzhu.java;
+package com.github.zhouzhu.java.lambda;
 
 /**
  * @ClassName: Java8newfeatures
